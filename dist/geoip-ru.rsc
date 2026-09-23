@@ -1,4 +1,4 @@
-# Auto-generated 2026-09-22T07:02:47Z from ipverse/country-ip-blocks
+# Auto-generated 2026-09-23T06:58:52Z from ipverse/country-ip-blocks
 /ip firewall address-list remove [find list=geoip-ru comment=geoip-ru-auto]
 /ip firewall address-list
 add list=geoip-ru address=2.56.24.0/22 comment=geoip-ru-auto
@@ -3919,8 +3919,7 @@ add list=geoip-ru address=94.140.128.0/19 comment=geoip-ru-auto
 add list=geoip-ru address=94.140.192.0/18 comment=geoip-ru-auto
 add list=geoip-ru address=94.141.32.0/19 comment=geoip-ru-auto
 add list=geoip-ru address=94.141.104.0/21 comment=geoip-ru-auto
-add list=geoip-ru address=94.141.112.0/21 comment=geoip-ru-auto
-add list=geoip-ru address=94.141.124.0/22 comment=geoip-ru-auto
+add list=geoip-ru address=94.141.112.0/20 comment=geoip-ru-auto
 add list=geoip-ru address=94.141.160.0/19 comment=geoip-ru-auto
 add list=geoip-ru address=94.141.244.0/22 comment=geoip-ru-auto
 add list=geoip-ru address=94.141.252.0/22 comment=geoip-ru-auto
@@ -4588,6 +4587,7 @@ add list=geoip-ru address=158.255.75.0/24 comment=geoip-ru-auto
 add list=geoip-ru address=158.255.80.0/21 comment=geoip-ru-auto
 add list=geoip-ru address=158.255.128.0/18 comment=geoip-ru-auto
 add list=geoip-ru address=159.93.0.0/16 comment=geoip-ru-auto
+add list=geoip-ru address=159.194.192.0/24 comment=geoip-ru-auto
 add list=geoip-ru address=159.194.196.0/22 comment=geoip-ru-auto
 add list=geoip-ru address=159.194.200.0/21 comment=geoip-ru-auto
 add list=geoip-ru address=159.194.208.0/20 comment=geoip-ru-auto
@@ -5387,6 +5387,7 @@ add list=geoip-ru address=185.42.108.0/22 comment=geoip-ru-auto
 add list=geoip-ru address=185.42.124.0/22 comment=geoip-ru-auto
 add list=geoip-ru address=185.42.144.0/22 comment=geoip-ru-auto
 add list=geoip-ru address=185.42.156.0/22 comment=geoip-ru-auto
+add list=geoip-ru address=185.42.163.0/24 comment=geoip-ru-auto
 add list=geoip-ru address=185.42.164.0/22 comment=geoip-ru-auto
 add list=geoip-ru address=185.42.180.0/22 comment=geoip-ru-auto
 add list=geoip-ru address=185.42.228.0/22 comment=geoip-ru-auto
